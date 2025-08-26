@@ -3,11 +3,11 @@ IOS
 
 
 
-# Prework - *IOS App*
+# Prework - *IOS Background Color Change App*
 
 Submitted by: **Menard Simoya**
 
-**Name of your app** is an app that shows the login button 
+**IOS Background Color Change App** is an app that shows the login button 
 
 Time spent: 2 hours spent in total
 
@@ -29,7 +29,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 Describe any challenges encountered while building the app.
-I struggled installing the Xcode software and navigating through the UI
+I struggled installing the Xcode software and navigating through the UI. It was challenging to add connect UI with the logic for example I wanted an image to pop up when the user taps the roleLabel.
 
 ## License
 
