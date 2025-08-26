@@ -9,7 +9,7 @@ Submitted by: **Menard Simoya**
 
 **IOS Background Color Change App** is an app that shows the login button 
 
-Time spent: 2 hours spent in total
+Time spent: 7 hours spent in total
 
 ## Required Features
 
